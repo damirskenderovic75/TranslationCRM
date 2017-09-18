@@ -52,7 +52,7 @@ if (!defined('sugarEntry') || !sugarEntry) {
 
 $app_list_strings = array(
 //e.g. auf Deutsch 'Contacts'=>'Contakten',
-    'language_pack_name' => 'BH/HR',
+    'language_pack_name' => 'BH/HR Jezik',
     'moduleList' => array(
             'Home' => 'Početno',
 			'ResourceCalendar' => 'Resource Calendar',
